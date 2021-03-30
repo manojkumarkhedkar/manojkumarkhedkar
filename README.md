@@ -46,14 +46,6 @@ Here are some ideas to get you started:
 
 
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.40 % 
-Other        21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-```
-<!--END_SECTION:waka-->
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=manojkumarkhedkar&theme=onedark)](https://github.com/manojkumarkhedkar/github-profile-trophy)
 
 
