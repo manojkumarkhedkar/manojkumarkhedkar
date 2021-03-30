@@ -54,7 +54,7 @@ Other        21 mins         ███▓░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=manojkumarkhedkar&theme=onedark)](https://github.com/manojkumarkhedkar/github-profile-trophy)
 
 
 
